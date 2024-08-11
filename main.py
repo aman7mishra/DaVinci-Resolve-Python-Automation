@@ -1,7 +1,7 @@
 import os
 
 #Media Settings:
-mediaPath = "/Users/amanmishra/upwork/Python_Script_for_DaVinci_Resolve/media"            #Update the path 
+mediaPath = "<Path>"            #Update the path 
 render_folder = os.path.join(mediaPath, "rendered_videos")
 clips_info = [
     {
